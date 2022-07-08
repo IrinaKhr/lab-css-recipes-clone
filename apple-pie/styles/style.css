@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 900px;
+    margin: 20px;
+    padding: 50px;
+    border: 1px rgb(67,163,230) solid;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.recipe {
+    margin:  90px;
+    text-align: justify;
+    border-bottom: 1px;
+}
+
+header {
+    background-image: url("/images/apple-pie.jpg");
+    background-size: cover;
+    height: 500px;
+    text-align:center;
+    color: white;
+    box-sizing: border-box;
+    padding-top: 180px;
+    font-size: 30px;
+    font-weight:10
+
+}
+p {text-align: center;}
